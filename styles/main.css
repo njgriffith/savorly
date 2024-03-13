@@ -1,0 +1,16 @@
+body{
+    background-color: #2a2d34;
+    color: #96C6A5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    position: relative;
+    top: 5%;
+}
+.nav-item:hover{
+    border-bottom: 1px solid #96C6A5;
+    padding-bottom: 5px;
+}
